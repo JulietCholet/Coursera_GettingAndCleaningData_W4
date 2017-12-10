@@ -16,6 +16,6 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 ==================================================================
 
-This dataset comes  with the present README file, a codebook describing dataset and variables, a run_analysis.R frile, which contains the script used to obtained reqhaped data, and finally the dataset itself, called (tidydata.txt) 
+This dataset comes  with the present README file, a codebook describing dataset and variables, a run_analysis.R file, which contains the script used to obtained reshaped data, and finally the dataset itself (tidydata.txt) 
 
 
