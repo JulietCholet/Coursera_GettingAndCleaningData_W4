@@ -1,4 +1,5 @@
 ==================================================================
+
 This dataset has been obtained from the reshaping of the following dataset :
 
 Human Activity Recognition Using Smartphones Dataset
