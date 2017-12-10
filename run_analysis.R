@@ -49,4 +49,4 @@
 > analysis<-(alldata%>% group_by(SubjectId, Activity)%>% summarise_all(funs(mean)))
 
 ##this 2nd data set is saved as text file called "tidydata"
-> write.table(x = analysis, file = "tidydata.txt")
+> write.table(x = analysis, file = "tidydata.txt", row.names=F)
