@@ -1,5 +1,5 @@
 ##read files which contains labels of columns (features) and labels of activity (labels) 
-> labels = read.table('UCI HAR Dataset/activity_labels.txt')
+> labels <- read.table('UCI HAR Dataset/activity_labels.txt')
 > labels[,2] <- as.character(labels[,2])
 > features <- read.table("UCI HAR Dataset/features.txt")
 > features[,2] <- as.character(features[,2])
